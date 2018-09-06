@@ -1,5 +1,5 @@
 # fullstack-app
 Stack:
-  React
-  Express
-  Postgres
+  - React
+  - Express
+  - Postgres
