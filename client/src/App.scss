@@ -1,0 +1,29 @@
+.form {
+  border: 1px solid lightblue;
+  padding: 0px 20px;
+  width: 500px;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  > div {
+    width: 100% !important;
+  }
+  .destination > div {
+    margin-left: 5%;
+    width: 95% !important;
+  }
+  .header {
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    color: green;
+  }
+  .submit {
+    display: block;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
