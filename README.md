@@ -27,3 +27,6 @@ In root folder run:
   ```
   yarn start or npm  start
   ```
+  
+  Finally open `localhost:3000`
+  You can edit `client/src/App.js` and your changes will be visible on localhost
