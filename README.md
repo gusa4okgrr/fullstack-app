@@ -24,4 +24,6 @@ In root folder run:
 
   Afterwards go to *client* folder and repeat `yarn or npm install`.
   And then run
-  ```yarn start or npm  start```
+  ```
+  yarn start or npm  start
+  ```
