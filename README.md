@@ -9,14 +9,17 @@ You need to have NodeJs and Npm installed
 In root folder run:
   
   1.
-  # yarn
-  # or
-  # npm install
+  ```yarn
+  or
+  npm install
+  ```
   And then
   2.
-  # node server.js
+  ```node server.js```
+  Or if you have nodemon
+  ``` nodemon server.js ```
 
   Afterwards go to *client* folder and repeat first step.
   And then run
   3.
-  # yarn start or npm  start
+  ```yarn start or npm  start```
